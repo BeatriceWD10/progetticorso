@@ -1,0 +1,99 @@
+body {
+    text-align: center;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+}
+
+header img{
+    width: 200px;
+    margin: auto;
+}
+
+nav {
+    color: rgba(1, 95, 51, 0.997);
+    background-color: #fefbf1;
+    border-top:  2px solid  orange;
+    padding-top: 10px;
+    margin-bottom: 40px;
+
+}
+
+.bold {
+    font-weight: bold;
+}
+
+
+main{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+section img {
+    width: 100%;
+    border-radius: 10px; 
+    text-align: center;
+}
+
+#foto {
+    box-shadow: 6px 5px 6px 2px rgba(224, 221, 224, 0.68);
+    margin-bottom: 10px;
+    margin-bottom: 1.5em
+}
+
+h5{
+    color: gray;
+    margin: 0px;
+    text-align: center;
+    margin-bottom: 3em;
+}
+
+.info {
+    color: #cc1111; 
+    border-left: 1px solid orange;
+    padding-left: 15px;
+    margin-bottom: 40px;
+
+}
+ .info p {
+    margin: 0px;
+ }
+
+.info a {
+    color: #178479;
+    margin: 0px;
+} 
+
+.ingredient h2 {
+    border-bottom: 1px solid rgb(133, 205, 241);
+    padding-bottom: 20px;
+    font-weight: 200;
+}
+
+.ingredient h3{
+    font-size: medium;
+}
+
+.ingredient ol li{
+    font-weight: bold;
+}
+
+.footer{
+   width: 50%;
+   margin: auto;
+   text-align: left;
+}
+ .footer a {
+    color: green;
+ }
+
+
