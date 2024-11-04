@@ -1,0 +1,161 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif; 
+
+}
+
+.logo {
+   width: 100%;
+   background-color:#222F3F;
+   height: 5vh;
+   padding-top: 5px;
+   padding-bottom: 10px;
+   padding-left: 15px;
+}
+
+.logo img{
+    height: 100%;
+    padding-left: 10px;
+}
+
+main {
+    background-color: #eaeded;
+   
+}
+
+.navigationbar{
+    height: 30%;
+    width: 100%;
+    background-color:#364759;
+    color: white;
+    font-size: 0.8em;
+    padding: 8px;
+}
+
+.navigationbar p{
+    display: inline;
+    padding: 5px 5px;
+    position: relative;
+    left: 20px;
+}
+
+.message {
+    margin: 1.5rem;
+}
+
+.message p {
+    background-color:#F56600;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.guides {
+    height: 20vh;
+    background-image: url(/assets/bg-image.png);
+    color: white;
+    text-align: center;
+    position: relative;
+    font-size: 0.7em;
+    margin-bottom: 30px;
+    margin: 1.5rem;
+   
+}
+
+.guides img{
+    padding: 20px;
+}
+
+.guides h1 {
+    position: relative;
+    margin-bottom: 20px;
+    top: 40px;
+}
+
+.guides p{
+    position: relative;
+    margin: 0px;
+    top: 35px;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+#titlebox{
+    height: 5vh;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+
+#titlebox p{
+    background-color: #eaeded;
+   
+}
+    
+#contain {
+    background-color: white;
+    margin: 1.5rem;
+    
+
+}
+#gallery{
+    position: relative;
+   background-color: white;
+   text-align: center;
+   top:5px;
+}
+
+#gallery img{
+    display: inline-block;
+    width: 300px;
+    height: 390px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px grey;
+    left: 50px;
+    object-fit: cover;
+    margin: 1.5rem;
+}
+
+.card{
+    display: inline-block;
+    text-align: center;
+    margin: 1.5rem;
+}
+
+.card img {
+  width: 100%;
+  
+}
+
+.card p {
+    display: inline;
+}
+#link {
+    background-color:#364759;
+    text-align: center;
+    padding: 20px;
+}
+
+#link a {
+     color: white;
+}
+
+#logobottom {
+    background-color:#222F3F;
+    height: 20vh;
+    text-align: center;
+    
+}
+
+#logobottom img{
+    height: 50%;
+    position: relative;
+    top: 30px; 
+}
+
+
+
+
+
+
+
